@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\SofthemeCircularPrime\SofthemeCircularPrime\bin\Debug\SofthemeCircularPrime.exe.config
+e:\documents\visual studio 2013\Projects\SofthemeCircularPrime\SofthemeCircularPrime\obj\Debug\SofthemeCircularPrime.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\SofthemeCircularPrime\SofthemeCircularPrime\bin\Debug\SofthemeCircularPrime.exe
+e:\documents\visual studio 2013\Projects\SofthemeCircularPrime\SofthemeCircularPrime\bin\Debug\SofthemeCircularPrime.pdb
+e:\documents\visual studio 2013\Projects\SofthemeCircularPrime\SofthemeCircularPrime\obj\Debug\SofthemeCircularPrime.exe
+e:\documents\visual studio 2013\Projects\SofthemeCircularPrime\SofthemeCircularPrime\obj\Debug\SofthemeCircularPrime.pdb

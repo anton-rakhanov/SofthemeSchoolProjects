@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\SofthemeTriangles\SofthemeTriangles\bin\Debug\SofthemeTriangles.exe.config
+e:\documents\visual studio 2013\Projects\SofthemeTriangles\SofthemeTriangles\obj\Debug\SofthemeTriangles.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\SofthemeTriangles\SofthemeTriangles\bin\Debug\SofthemeTriangles.exe
+e:\documents\visual studio 2013\Projects\SofthemeTriangles\SofthemeTriangles\bin\Debug\SofthemeTriangles.pdb
+e:\documents\visual studio 2013\Projects\SofthemeTriangles\SofthemeTriangles\obj\Debug\SofthemeTriangles.exe
+e:\documents\visual studio 2013\Projects\SofthemeTriangles\SofthemeTriangles\obj\Debug\SofthemeTriangles.pdb
